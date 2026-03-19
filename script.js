@@ -1,7 +1,7 @@
 const candidates = [
-  { id: 1, name: "Rahul", votes: 0 },
-  { id: 2, name: "Aman", votes: 0 },
-  { id: 3, name: "Rohit", votes: 0 }
+  { id: 1, name: "Avanish Sharma", votes: 0 },
+  { id: 2, name: "Anurand", votes: 0 },
+  { id: 3, name: "Tillu Dakait", votes: 0 }
 ];
 
 const container = document.getElementById("candidates");
